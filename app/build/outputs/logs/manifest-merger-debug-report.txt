@@ -1,0 +1,113 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/globallogic/StudioProjects/IntentsDemo/app/src/main/AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from /home/globallogic/StudioProjects/IntentsDemo/app/src/main/AndroidManifest.xml:3:11-50
+		INJECTED from /home/globallogic/StudioProjects/IntentsDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/globallogic/StudioProjects/IntentsDemo/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/globallogic/StudioProjects/IntentsDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/globallogic/StudioProjects/IntentsDemo/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/globallogic/StudioProjects/IntentsDemo/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/globallogic/StudioProjects/IntentsDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/globallogic/StudioProjects/IntentsDemo/app/src/main/AndroidManifest.xml
+uses-feature#android.hardware.camera
+ADDED from /home/globallogic/StudioProjects/IntentsDemo/app/src/main/AndroidManifest.xml:4:5-5:45
+	android:required
+		ADDED from /home/globallogic/StudioProjects/IntentsDemo/app/src/main/AndroidManifest.xml:5:19-42
+	android:name
+		ADDED from /home/globallogic/StudioProjects/IntentsDemo/app/src/main/AndroidManifest.xml:4:19-57
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/globallogic/StudioProjects/IntentsDemo/app/src/main/AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from /home/globallogic/StudioProjects/IntentsDemo/app/src/main/AndroidManifest.xml:6:22-78
+application
+ADDED from /home/globallogic/StudioProjects/IntentsDemo/app/src/main/AndroidManifest.xml:8:5-30:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/globallogic/.android/build-cache/cd3d964631a96cfdaf649cc97474074a01361205/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/globallogic/.android/build-cache/834e5bb918984527b10bba38c80e79e002d11dee/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/globallogic/.android/build-cache/d4b794b66a175bd9cfc532c565806eacb2f20fc7/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/globallogic/.android/build-cache/43ff62e8b3abeca229affde329ea9210259dd006/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/globallogic/.android/build-cache/24e8bc24a88127d884cbb50e5d40296d41be96e7/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/globallogic/.android/build-cache/80ae9830999cc9ce22276d389fcb9deda7fd2a11/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/globallogic/.android/build-cache/8874745ef2a45758a712933940d84a488f28fdb5/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/globallogic/.android/build-cache/471e9cbf63a10a3cd8a69d81de2e87d06d6ae3a9/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/globallogic/.android/build-cache/32b8bf454a031aac8356d5fd7fb6281443cb746e/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/globallogic/.android/build-cache/d0b2205c6f28610ca7bd88e9c0dba7f8f240ff80/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /home/globallogic/StudioProjects/IntentsDemo/app/src/main/AndroidManifest.xml:11:13-45
+	android:supportsRtl
+		ADDED from /home/globallogic/StudioProjects/IntentsDemo/app/src/main/AndroidManifest.xml:13:13-39
+	android:roundIcon
+		ADDED from /home/globallogic/StudioProjects/IntentsDemo/app/src/main/AndroidManifest.xml:12:13-58
+	android:allowBackup
+		ADDED from /home/globallogic/StudioProjects/IntentsDemo/app/src/main/AndroidManifest.xml:9:13-39
+	android:icon
+		ADDED from /home/globallogic/StudioProjects/IntentsDemo/app/src/main/AndroidManifest.xml:10:13-47
+	android:theme
+		ADDED from /home/globallogic/StudioProjects/IntentsDemo/app/src/main/AndroidManifest.xml:14:13-44
+activity#com.rugvedinamdar.intentsdemo.MainActivity
+ADDED from /home/globallogic/StudioProjects/IntentsDemo/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from /home/globallogic/StudioProjects/IntentsDemo/app/src/main/AndroidManifest.xml:15:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/globallogic/StudioProjects/IntentsDemo/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /home/globallogic/StudioProjects/IntentsDemo/app/src/main/AndroidManifest.xml:17:17-68
+	android:name
+		ADDED from /home/globallogic/StudioProjects/IntentsDemo/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/globallogic/StudioProjects/IntentsDemo/app/src/main/AndroidManifest.xml:19:17-76
+	android:name
+		ADDED from /home/globallogic/StudioProjects/IntentsDemo/app/src/main/AndroidManifest.xml:19:27-74
+activity#com.rugvedinamdar.intentsdemo.GalleryActivity
+ADDED from /home/globallogic/StudioProjects/IntentsDemo/app/src/main/AndroidManifest.xml:22:9-23:20
+	android:name
+		ADDED from /home/globallogic/StudioProjects/IntentsDemo/app/src/main/AndroidManifest.xml:22:19-50
+activity#com.rugvedinamdar.intentsdemo.CameraActivity
+ADDED from /home/globallogic/StudioProjects/IntentsDemo/app/src/main/AndroidManifest.xml:24:9-25:20
+	android:name
+		ADDED from /home/globallogic/StudioProjects/IntentsDemo/app/src/main/AndroidManifest.xml:24:19-49
+activity#com.rugvedinamdar.intentsdemo.SmsActivity
+ADDED from /home/globallogic/StudioProjects/IntentsDemo/app/src/main/AndroidManifest.xml:26:9-27:20
+	android:name
+		ADDED from /home/globallogic/StudioProjects/IntentsDemo/app/src/main/AndroidManifest.xml:26:19-46
+activity#com.rugvedinamdar.intentsdemo.ContactsActivity
+ADDED from /home/globallogic/StudioProjects/IntentsDemo/app/src/main/AndroidManifest.xml:28:9-29:20
+	android:name
+		ADDED from /home/globallogic/StudioProjects/IntentsDemo/app/src/main/AndroidManifest.xml:28:19-51
+uses-sdk
+INJECTED from /home/globallogic/StudioProjects/IntentsDemo/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/globallogic/.android/build-cache/cd3d964631a96cfdaf649cc97474074a01361205/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/globallogic/.android/build-cache/834e5bb918984527b10bba38c80e79e002d11dee/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/globallogic/.android/build-cache/d4b794b66a175bd9cfc532c565806eacb2f20fc7/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/globallogic/.android/build-cache/43ff62e8b3abeca229affde329ea9210259dd006/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/globallogic/.android/build-cache/24e8bc24a88127d884cbb50e5d40296d41be96e7/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/globallogic/.android/build-cache/80ae9830999cc9ce22276d389fcb9deda7fd2a11/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/globallogic/.android/build-cache/8874745ef2a45758a712933940d84a488f28fdb5/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/globallogic/.android/build-cache/471e9cbf63a10a3cd8a69d81de2e87d06d6ae3a9/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/globallogic/.android/build-cache/32b8bf454a031aac8356d5fd7fb6281443cb746e/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/globallogic/.android/build-cache/d0b2205c6f28610ca7bd88e9c0dba7f8f240ff80/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/globallogic/.android/build-cache/834e5bb918984527b10bba38c80e79e002d11dee/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/globallogic/StudioProjects/IntentsDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/globallogic/StudioProjects/IntentsDemo/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/globallogic/StudioProjects/IntentsDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/globallogic/StudioProjects/IntentsDemo/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/globallogic/.android/build-cache/834e5bb918984527b10bba38c80e79e002d11dee/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/globallogic/.android/build-cache/d4b794b66a175bd9cfc532c565806eacb2f20fc7/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/globallogic/.android/build-cache/43ff62e8b3abeca229affde329ea9210259dd006/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/globallogic/.android/build-cache/24e8bc24a88127d884cbb50e5d40296d41be96e7/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/globallogic/.android/build-cache/80ae9830999cc9ce22276d389fcb9deda7fd2a11/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/globallogic/.android/build-cache/8874745ef2a45758a712933940d84a488f28fdb5/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/globallogic/.android/build-cache/471e9cbf63a10a3cd8a69d81de2e87d06d6ae3a9/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/globallogic/.android/build-cache/32b8bf454a031aac8356d5fd7fb6281443cb746e/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/globallogic/.android/build-cache/d0b2205c6f28610ca7bd88e9c0dba7f8f240ff80/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/globallogic/.android/build-cache/834e5bb918984527b10bba38c80e79e002d11dee/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/globallogic/.android/build-cache/834e5bb918984527b10bba38c80e79e002d11dee/output/AndroidManifest.xml:26:9-47

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/globallogic/StudioProjects/IntentsDemo/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_round.png",
+        "source": "/home/globallogic/StudioProjects/IntentsDemo/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/globallogic/StudioProjects/IntentsDemo/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/home/globallogic/StudioProjects/IntentsDemo/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/globallogic/StudioProjects/IntentsDemo/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/globallogic/.android/build-cache/834e5bb918984527b10bba38c80e79e002d11dee/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/globallogic/StudioProjects/IntentsDemo/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/globallogic/.android/build-cache/834e5bb918984527b10bba38c80e79e002d11dee/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/globallogic/StudioProjects/IntentsDemo/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/globallogic/.android/build-cache/834e5bb918984527b10bba38c80e79e002d11dee/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/globallogic/StudioProjects/IntentsDemo/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/globallogic/.android/build-cache/834e5bb918984527b10bba38c80e79e002d11dee/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

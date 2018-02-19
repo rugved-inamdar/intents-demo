@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IntentsDemo</string>
+    <string name="btn_gallery">Gallery</string>
+    <string name="btn_camera">Camera</string>
+    <string name="btn_sms">SMS</string>
+    <string name="btn_contacts">Contacts</string>
+    <string name="btn_gallery_select">Open gallery</string>
+    <string name="btn_camera_select">Open Camera</string>
+    <string name="btn_sms_select">Open SMS</string>
+</resources>

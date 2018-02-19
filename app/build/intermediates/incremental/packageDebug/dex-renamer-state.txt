@@ -1,0 +1,7 @@
+#Tue Feb 13 22:08:44 IST 2018
+base.0=/home/globallogic/StudioProjects/IntentsDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_075dd5b5d806fa153bd5d510f12686033ef53522
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/globallogic/StudioProjects/IntentsDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d80ef0870f1e04dc4a48c216f83d9da7055889ae/classes.dex
+base.1=/home/globallogic/StudioProjects/IntentsDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d80ef0870f1e04dc4a48c216f83d9da7055889ae
+file.0=/home/globallogic/StudioProjects/IntentsDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_075dd5b5d806fa153bd5d510f12686033ef53522/classes.dex
